@@ -1,2 +1,2 @@
-# pptx
+# potx
 PowerPoint template files
